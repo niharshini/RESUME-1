@@ -1,6 +1,7 @@
  body{
      background-color: #e1e5ea;
      box-sizing: border-box;
+     list-style-type: none;
  }
  
  .section1
@@ -114,7 +115,10 @@ p{
 }
 .projects ul{
     padding-left: 33%;
-    list-style:none;
+    list-style-type: none;
+}
+.Certificates ul{
+    list-style-type: none;
 }
 @media only screen and (max-width: 1480px) {
     .section1{
